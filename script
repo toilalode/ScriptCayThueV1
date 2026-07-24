@@ -448,7 +448,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitin
   })
 
 AddButton(Tab1o, {
-     Name = "Omg Ols Version",
+     Name = "Omg Old Version",
     Callback = function()
 getgenv().Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
