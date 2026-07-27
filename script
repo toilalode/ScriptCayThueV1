@@ -515,10 +515,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/
 
 AddButton(Tab1o, {
      Name = "Vzexe Hub",
-   Callback = function()
-	  repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
-getgenv().Key = "d17cfb1d576717b9097a6cbd" 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+    Callback = function()
+	  repeat task.wait() until game:IsLoaded()
+    getgenv().Premium = true
+     script_key="lzc5p7y5g4rb34oyydx7zr5j";
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/VxezeHubLoader/refs/heads/main/BloxFruit.lua"))()
   end
   })
   
