@@ -1,4 +1,17 @@
-                                                                                 local StrToNumber=    
+(Lưu ý⚠️: Tao đã mã hóa code lua và cấm đứa nào xem code chính)
+(Warning⚠️: I obfuscated lua code and ban everyone view main code)
+(Web đây nha xem đi: https://github.com/toilalode/scriptcaythuev1/blob/main/scriptcuatoi2amongus.lua)
+
+--[[
+
+  ____            _       _    ____           _____ _              __     ___ 
+ / ___|  ___ _ __(_)_ __ | |_ / ___|__ _ _   |_   _| |__  _   _  __\ \   / / |
+ \___ \ / __| '__| | '_ \| __| |   / _` | | | || | | '_ \| | | |/ _ \ \ / /| |
+  ___) | (__| |  | | |_) | |_| |__| (_| | |_| || | | | | | |_| |  __/\ V / | |
+ |____/ \___|_|  |_| .__/ \__|\____\__,_|\__, ||_| |_| |_|\__,_|\___| \_/  |_|
+                   |_|                   |___/                                
+]]--
+                                                                                    local StrToNumber=    
                                                                         tonumber;local Byte=string.byte;local Char=     
                                                                     string.char;local Sub=string.sub;local Subg=string.gsub;local 
                                                                  Rep=string.rep;local Concat=table.concat;local Insert=table.insert;    
