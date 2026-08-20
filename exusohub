@@ -1,0 +1,9 @@
+--[[
+  ____            _       _   ____  _            _               _    
+ / ___|  ___ _ __(_)_ __ | |_| __ )| |_   _  ___| |    ___   ___| | __
+ \___ \ / __| '__| | '_ \| __|  _ \| | | | |/ _ \ |   / _ \ / __| |/ /
+  ___) | (__| |  | | |_) | |_| |_) | | |_| |  __/ |__| (_) | (__|   < 
+ |____/ \___|_|  |_| .__/ \__|____/|_|\__,_|\___|_____\___/ \___|_|\_\
+                   |_|                                                
+]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BexruzScripts/Blue-lock-no-cd-reo-get-any-style-script.-WORKS-WITH-WORLD-CLASSES-/refs/heads/main/script.lua"))()
