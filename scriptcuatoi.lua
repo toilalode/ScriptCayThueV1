@@ -1,5 +1,3 @@
---Lưu ý⚠️: Tao đã mã hóa code lua và cấm đứa nào xem code chính
---Warning⚠️: I obfuscated lua code and ban everyone view main code
 --Web đây nha xem đi: https://github.com/toilalode/scriptcaythuev1/blob/main/scriptcuatoi.lua
 --[[
 
@@ -532,6 +530,14 @@ AddButton(Tab1o, {
     getgenv().Premium = true
      script_key="lzc5p7y5g4rb34oyydx7zr5j";
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/VxezeHubLoader/refs/heads/main/BloxFruit.lua"))()
+  end
+  })
+
+AddButton(Tab1o, {
+     Name = "Banana Của Omg Crack",
+    Callback = function()
+	  getgenv().Mode = "LGBTQ Hub Cracked"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
   end
   })
   
